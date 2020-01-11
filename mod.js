@@ -1,3 +1,6 @@
+
+console.log('jhjhjhjhjhj');
+
 repeat(3,'john');
 
 wait(10,'wait is working');
